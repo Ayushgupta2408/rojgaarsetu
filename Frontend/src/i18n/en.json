@@ -1,0 +1,740 @@
+{
+  "portal": {
+    "worker": "Worker Portal",
+    "contractor": "Employer Portal",
+    "owner": "Vehicle Owner Portal",
+    "default": "Rojgar Setu"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "jobs": "Jobs",
+    "recommendations": "Recommendations",
+    "postJob": "Post Job",
+    "addVehicle": "Add Vehicle",
+    "vehicles": "Vehicles",
+    "home": "Home",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "hero": {
+    "titleLine1": "Connect with Skilled",
+    "titleLine2": "Workers & Service Providers",
+    "description": "Your one-stop platform connecting contractors with skilled workers and vehicle/instrument owners. Get your work done efficiently and reliably.",
+    "btnFindWorkers": "Find Workers",
+    "btnPostJob": "Post a Job",
+    "imageAlt": "Workers Hero"
+  },
+  "whyChoose": {
+    "heading": "Why Choose Us",
+    "subheading": "Experience the future of digital innovation",
+    "cards": {
+      "automation": {
+        "title": "Smart Automation",
+        "desc": "Streamline your workflow with intelligent automation tools."
+      },
+      "security": {
+        "title": "Enhanced Security",
+        "desc": "Advanced protection for your sensitive data and privacy."
+      },
+      "analytics": {
+        "title": "Real-time Analytics",
+        "desc": "Get instant insights with powerful analytics tools."
+      }
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "steps": {
+      "register": {
+        "title": "Register & Complete Profile",
+        "desc": "Create your account and complete your profile to start connecting with opportunities."
+      },
+      "connect": {
+        "title": "Connect & Apply",
+        "desc": "Browse through available jobs or post your requirements. Connect with the right people."
+      },
+      "work": {
+        "title": "Work & Get Rated",
+        "desc": "Complete jobs successfully and build your reputation through ratings and reviews."
+      }
+    }
+  },
+  "availableWorkers": {
+    "heading": "Available Workers",
+    "cards": {
+      "carpenters": {
+        "name": "Carpenters",
+        "desc": "Expert woodworkers for all your furniture and fitting needs.",
+        "button": "Find Carpenters"
+      },
+      "plumbers": {
+        "name": "Plumbers",
+        "desc": "Professional plumbers for all your pipe and fitting works.",
+        "button": "Find Plumbers"
+      },
+      "electricians": {
+        "name": "Electricians",
+        "desc": "Skilled electricians for all electrical installations and repairs.",
+        "button": "Find Electricians"
+      },
+      "vehicles": {
+        "name": "Vehicles & Equipment",
+        "desc": "Various construction vehicles and equipment for rent.",
+        "button": "Find Vehicles"
+      }
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "placeholderName": "Name",
+    "placeholderEmail": "Email",
+    "placeholderSubject": "Subject",
+    "placeholderMessage": "Message",
+    "btnSend": "Send Message"
+  },
+  "footer": {
+    "brandName": "Rojgar Setu",
+    "tagline": "Connecting skilled workers with opportunities.",
+    "quickLinksTitle": "Quick Links",
+    "links": {
+      "home": "Home",
+      "about": "About",
+      "workers": "Workers",
+      "contact": "Contact"
+    },
+    "servicesTitle": "Services",
+    "services": {
+      "findWorkers": "Find Workers",
+      "postJobs": "Post Jobs",
+      "rentEquipment": "Rent Equipment",
+      "joinAsWorker": "Join as Worker"
+    },
+    "connectWithUs": "Connect With Us"
+  },
+  "auth": {
+    "signInToAccount": "Sign in to your account",
+    "createAccount": "Create Your Account",
+    "or": "Or",
+    "createNewAccount": "create a new account",
+    "signInExisting": "sign in to your existing account",
+    "email": "Email",
+    "emailPlaceholder": "Your email address",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "Re-enter password",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "Your full name",
+    "phone": "Phone",
+    "phonePlaceholder": "Your phone number",
+    "registerAs": "Register as",
+    "worker": "Worker",
+    "contractor": "Contractor",
+    "owner": "Owner",
+    "signIn": "Sign in",
+    "register": "Register",
+    "signingIn": "Signing in...",
+    "registering": "Registering...",
+    "loginSuccess": "Logged in successfully!",
+    "loginFailed": "Login failed. Please check your credentials.",
+    "registrationSuccess": "Registration successful!",
+    "registrationFailed": "Registration failed. Please try again.",
+    "passwordMismatch": "Passwords do not match",
+    "verifyPhoneNumber": "Verify Your Phone Number",
+    "otpSentMessage": "We've sent a 6‑digit code to your phone. Enter it below.",
+    "verifyOTP": "Verify OTP",
+    "verifying": "Verifying…",
+    "resendOTP": "Resend OTP",
+    "resending": "Resending…",
+    "resendOTPCountdown": "Resend OTP in {{seconds}}s",
+    "otpValidationError": "Please enter a valid 6-digit OTP",
+    "otpVerifiedSuccess": "OTP verified successfully!",
+    "otpVerificationFailed": "OTP verification failed. Please try again.",
+    "otpResentSuccess": "OTP resent successfully!",
+    "otpResendFailed": "Failed to resend OTP. Please try again."
+  },
+  "jobs": {
+    "posting": {
+      "title": "Create Job Posting",
+      "subtitle": "Fill out the details below to post a new job.",
+      "success": "Job post created successfully!",
+      "error": "Job posting creation failed. Please try again.",
+      "posting": "Posting...",
+      "postJob": "Post Job"
+    },
+    "update": {
+      "success": "Job post updated successfully!",
+      "error": "Update failed. Please try again.",
+      "updating": "Updating...",
+      "saveChanges": "Save Changes"
+    },
+    "delete": {
+      "success": "Job post deleted successfully!",
+      "error": "Deletion failed. Please try again.",
+      "deleting": "Deleting...",
+      "confirmTitle": "Confirm Deletion",
+      "confirmMessage": "Are you sure you want to delete this job post?"
+    },
+    "details": {
+      "title": "Job Details"
+    },
+    "fields": {
+      "jobTitle": "Job Title",
+      "jobTitlePlaceholder": "Enter job title",
+      "payscale": "Payscale",
+      "payscalePlaceholder": "Payscale",
+      "requiredSkill": "Required Skill",
+      "requiredSkillPlaceholder": "Skill required",
+      "experience": "Experience (years)",
+      "experiencePlaceholder": "Experience",
+      "noOfWorkers": "No. of Workers",
+      "noOfWorkersPlaceholder": "Number of workers",
+      "duration": "Duration (days)",
+      "durationPlaceholder": "Duration",
+      "location": "Location",
+      "locationPlaceholder": "Location",
+      "description": "Job Description",
+      "descriptionPlaceholder": "Describe the job responsibilities and requirements",
+      "title": "Title",
+      "years": "years",
+      "workers": "workers"
+    },
+    "actions": {
+      "applyNow": "Apply Now",
+      "viewDetails": "View Details"
+    },
+    "errors": {
+      "notFound": "Job post not found or unauthorized.",
+      "notFoundOrRemoved": "Job not found or has been removed."
+    },
+    "application": {
+      "title": "Apply for {{jobTitle}}",
+      "subtitle": "Please fill in the required details to submit your application",
+      "success": "Application submitted successfully!",
+      "error": "Error submitting application",
+      "submitting": "Submitting...",
+      "submit": "Submit Application",
+      "fields": {
+        "experience": "Relevant Experience (years)",
+        "experiencePlaceholder": "Enter years of experience",
+        "availability": "Availability",
+        "availabilityPlaceholder": "e.g. Immediate, Available from next Monday"
+      },
+      "errors": {
+        "experienceRequired": "Experience is required",
+        "experienceInvalid": "Please enter a valid number of years",
+        "availabilityRequired": "Availability is required"
+      }
+    },
+    "browse": {
+      "title": "Browse Jobs",
+      "subtitle": "Search and apply to jobs that match your skills and preferences",
+      "filters": {
+        "searchPlaceholder": "Search by title, location, skill",
+        "minPayscalePlaceholder": "Min Payscale (₹)",
+        "minExperiencePlaceholder": "Min Experience (years)"
+      },
+      "errors": {
+        "loadFailed": "Failed to load jobs. Please try again later."
+      },
+      "noJobsFound": "No matching jobs found."
+    }
+  },
+  "vehicles": {
+    "posting": {
+      "title": "Post Vehicle / Instrument",
+      "subtitle": "Fill out the details below to post your vehicle or instrument for rent.",
+      "success": "Vehicle post created successfully!",
+      "error": "Vehicle posting creation failed. Please try again.",
+      "posting": "Submitting...",
+      "submit": "Submit",
+      "validationError": "Please fill: {{fields}}"
+    },
+    "update": {
+      "success": "Vehicle post updated successfully!",
+      "error": "Update failed. Please try again.",
+      "updating": "Updating...",
+      "saveChanges": "Save Changes"
+    },
+    "delete": {
+      "success": "Vehicle post deleted successfully!",
+      "error": "Deletion failed. Please try again.",
+      "deleting": "Deleting...",
+      "confirmTitle": "Confirm Deletion",
+      "confirmMessage": "Are you sure you want to delete this vehicle post?"
+    },
+    "details": {
+      "title": "Vehicle Details"
+    },
+    "fields": {
+      "title": "Title",
+      "titlePlaceholder": "Brief title",
+      "type": "Type",
+      "selectType": "Select...",
+      "payscale": "Pay Scale",
+      "payscalePlaceholder": "e.g. 1500",
+      "brand": "Brand",
+      "brandPlaceholder": "e.g. Toyota",
+      "quantity": "Quantity",
+      "quantityPlaceholder": "1",
+      "purchaseDate": "Purchase Date",
+      "location": "Location",
+      "locationPlaceholder": "City / Area",
+      "organization": "Organization",
+      "organizationPlaceholder": "If different from your profile",
+      "otherDetails": "Other Details",
+      "otherDetailsPlaceholder": "Any additional info"
+    },
+    "types": {
+      "vehicle": "Vehicle",
+      "instrument": "Instrument"
+    },
+    "browse": {
+      "title": "Available Vehicles",
+      "subtitle": "Search and rent vehicles that match your project requirements",
+      "refreshVehicles": "Refresh Vehicles",
+      "filters": {
+        "searchPlaceholder": "Search by title, brand, location",
+        "minPricePlaceholder": "Min Price (₹/day)"
+      },
+      "errors": {
+        "loadFailed": "Failed to load vehicles. Please try again later."
+      },
+      "noVehiclesFound": "No matching vehicles found."
+    },
+    "application": {
+      "title": "Apply for {{vehicleTitle}}",
+      "subtitle": "Please fill in the required details to submit your application",
+      "success": "Application submitted successfully!",
+      "error": "Error submitting application",
+      "submitting": "Submitting…",
+      "submit": "Submit Application",
+      "backToDetails": "Back to Details",
+      "fields": {
+        "ownerDetails": "Your Details",
+        "ownerDetailsPlaceholder": "Describe your experience and requirements",
+        "uploadImages": "Upload Vehicle Images"
+      },
+      "imagePreview": "Vehicle {{number}}"
+    },
+    "errors": {
+      "notFound": "Vehicle post not found or unauthorized."
+    }
+  },
+  "recommendations": {
+    "titles": {
+      "jobRecommendations": "Job Recommendations",
+      "workerRecommendations": "Worker Recommendations",
+      "vehicleRecommendations": "Vehicle Recommendations",
+      "recommendations": "Recommendations"
+    },
+    "subtitle": "Based on your profile and preferences",
+    "noRecommendations": "No recommendations found. Update your profile to get better matches.",
+    "errors": {
+      "loadFailed": "Failed to load recommendations. Please try again later."
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "perDay": "day",
+    "day": "day",
+    "years": "years",
+    "noTitle": "No Title",
+    "noLocation": "No Location",
+    "notAvailable": "N/A",
+    "unknownJob": "Unknown Job",
+    "unknownForm": "Unknown Form",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "status": "Status",
+    "experience": "Experience",
+    "location": "Location",
+    "payscale": "Payscale",
+    "duration": "Duration",
+    "accept": "Accept",
+    "reject": "Reject",
+    "consider": "Consider",
+    "back": "Back",
+    "viewApplication": "View Application",
+    "pending": "Pending",
+    "underReview": "Under Review",
+    "approved": "Approved",
+    "accepted": "Accepted",
+    "rejected": "Rejected",
+    "offerReceived": "Offer Received",
+    "offerAccepted": "Offer Accepted",
+    "unknown": "Unknown",
+    "actions": {
+      "download": "Download",
+      "viewJob": "View Job",
+      "viewForm": "View Form",
+      "viewApplications": "View Applications",
+      "viewApplication": "View Application",
+      "viewDetails": "View Details",
+      "accept": "Accept",
+      "reject": "Reject",
+      "apply": "Apply",
+      "sendOffer": "Send Offer",
+      "cancel": "Cancel",
+      "edit": "Edit",
+      "delete": "Delete",
+      "goBack": "Go Back"
+    },
+    "error": {
+      "default": "An error occurred. Please try again.",
+      "unknown": "Unknown error"
+    }
+  },
+  "applications": {
+    "applicationsForJob": "Applications for Job: {{title}}",
+    "applicationsForVehicle": "Applications for Vehicle Form: {{title}}",
+    "jobDetails": "Job Details",
+    "vehicleFormDetails": "Vehicle Form Details",
+    "applications": "Applications",
+    "noApplicationsYet": "No applications yet.",
+    "applicationDetails": "Application Details",
+    "vehicleApplication": "Vehicle Application",
+    "applicantInformation": "Applicant Information",
+    "vehicleDetails": "Vehicle Details",
+    "appliedAt": "Applied At",
+    "profileLink": "Profile Link",
+    "viewProfile": "View Profile",
+    "feedbackForRejection": "Provide feedback for rejection",
+    "feedbackPlaceholder": "Provide feedback for rejection",
+    "feedbackOptional": "Feedback for rejection (optional)",
+    "sendOffer": "Send Offer",
+    "actionSuccess": "Application {{action}} successfully!",
+    "actionError": "An error occurred while processing the application. Please try again.",
+    "requiredSkills": "Required Skills",
+    "experienceRequired": "Experience Required",
+    "vehicleType": "Vehicle Type",
+    "requirements": "Requirements",
+    "brand": "Brand",
+    "model": "Model",
+    "year": "Year",
+    "type": "Type",
+    "quantity": "Quantity",
+    "organization": "Organization",
+    "purchaseDate": "Purchase Date",
+    "otherDetails": "Other Details",
+    "vehiclePictures": "Vehicle Pictures",
+    "vehicleImageAlt": "Vehicle {{number}}",
+    "feedback": "Feedback",
+    "noFeedbackProvided": "No feedback provided."
+  },
+  "worker": {
+    "dashboard": {
+      "error": {
+        "fetchData": "Error fetching dashboard data"
+      },
+      "toast": {
+        "offerAccepted": "Offer accepted successfully",
+        "offerRejected": "Offer rejected successfully",
+        "offerError": "Failed to {{action}} offer: {{message}}",
+        "joiningAccepted": "Joining letter accepted successfully",
+        "joiningError": "Failed to accept joining letter: {{message}}"
+      },
+      "appliedOn": "Applied on",
+      "recommendedJobs": "Recommended Jobs",
+      "tabs": {
+        "applied": "Applied Jobs",
+        "offer": "Offer Letters",
+        "joining": "Joining Letters"
+      },
+      "empty": {
+        "applied": "No jobs in this section yet.",
+        "offer": "No offer letters received yet.",
+        "joining": "No joining letters received yet.",
+        "recommended": "No recommended jobs available."
+      }
+    }
+  },
+  "contractor": {
+    "dashboard": {
+      "stats": {
+        "totalApplications": "Total Applications",
+        "offersSent": "Offers Sent",
+        "vehicleApplications": "Vehicle Applications",
+        "vehicleOffers": "Vehicle Offers"
+      },
+      "views": {
+        "jobPostings": "Job Postings",
+        "vehicleForms": "Vehicle/Instrument Forms"
+      },
+      "sections": {
+        "jobPostings": "Job Postings",
+        "appliedCandidates": "Applied Candidates",
+        "vehicleForms": "Vehicle/Instrument Forms",
+        "vehicleApplications": "Vehicle Applications"
+      },
+      "actions": {
+        "createNewJob": "Create New Job",
+        "createFirstJob": "Create Your First Job",
+        "createNewForm": "Create New Form",
+        "createFirstForm": "Create Your First Form",
+        "sendJoiningLetter": "Send Joining Letter"
+      },
+      "table": {
+        "candidate": "Candidate",
+        "job": "Job",
+        "status": "Status",
+        "appliedOn": "Applied On",
+        "actions": "Actions",
+        "applicant": "Applicant",
+        "form": "Form"
+      },
+      "applicationsCount": "{{count}} applications",
+      "postedOn": "Posted on",
+      "empty": {
+        "noJobs": "You haven't posted any jobs yet.",
+        "noCandidates": "No candidates have applied to your jobs yet.",
+        "noForms": "You haven't posted any vehicle/instrument forms yet.",
+        "noVehicleApplications": "No vehicle applications received yet."
+      },
+      "toast": {
+        "applicationAccepted": "Application accepted successfully!",
+        "applicationRejected": "Application rejected successfully!",
+        "applicationError": "An error occurred while processing the application. Please try again.",
+        "vehicleAccepted": "Vehicle application accepted successfully!",
+        "vehicleRejected": "Vehicle application rejected successfully!",
+        "vehicleError": "An error occurred while processing the vehicle application. Please try again.",
+        "joiningLetterSent": "Joining letter sent successfully!",
+        "joiningLetterError": "An error occurred while sending the joining letter. Please try again."
+      }
+    }
+  },
+  "owner": {
+    "dashboard": {
+      "error": {
+        "fetchData": "Failed to load dashboard data. Please try again later."
+      },
+      "tabs": {
+        "pending": "Pending",
+        "accepted": "Accepted",
+        "rejected": "Rejected"
+      },
+      "appliedOn": "Applied on",
+      "recommendedForms": "Recommended Forms",
+      "brand": "Brand",
+      "quantity": "Quantity",
+      "empty": {
+        "pending": "No pending applications.",
+        "accepted": "No accepted applications.",
+        "rejected": "No rejected applications.",
+        "noRecommendations": "No recommendations at this time."
+      }
+    }
+  },
+  "dashboard": {
+    "owner": {
+      "errorLoading": "Failed to load dashboard data. Please try again later.",
+      "status": {
+        "pending": "Pending",
+        "accepted": "Accepted",
+        "rejected": "Rejected"
+      },
+      "notAvailable": "N/A",
+      "appliedOn": "Applied on",
+      "noApplicationsInCategory": "No applications in this category.",
+      "recommendedForms": "Recommended Forms",
+      "brand": "Brand",
+      "day": "day",
+      "quantity": "Quantity",
+      "viewDetails": "View Details",
+      "noRecommendations": "No recommendations at this time."
+    },
+    "worker": {
+      "loading": "Loading...",
+      "errorFetching": "Error fetching dashboard data",
+      "offerAccepted": "Offer accepted successfully",
+      "offerRejected": "Offer rejected successfully",
+      "offerResponseError": "Failed to {{action}} offer: {{message}}",
+      "joiningLetterAccepted": "Joining letter accepted successfully",
+      "joiningLetterError": "Failed to accept joining letter: {{message}}",
+      "unknownError": "Unknown error",
+      "status": {
+        "underReview": "Under Review",
+        "approved": "Approved",
+        "rejected": "Rejected",
+        "offerReceived": "Offer Received"
+      },
+      "noTitle": "No Title",
+      "day": "day",
+      "noLocation": "No Location",
+      "appliedOn": "Applied on",
+      "viewJob": "View Job",
+      "noJobsInSection": "No jobs in this section yet.",
+      "download": "Download",
+      "accept": "Accept",
+      "reject": "Reject",
+      "noOfferLetters": "No offer letters received yet.",
+      "noJoiningLetters": "No joining letters received yet.",
+      "recommendedJobs": "Recommended Jobs",
+      "noDuration": "No Duration",
+      "apply": "Apply",
+      "noRecommendedJobs": "No recommended jobs available.",
+      "tabs": {
+        "appliedJobs": "Applied Jobs",
+        "offerLetters": "Offer Letters",
+        "joiningLetters": "Joining Letters"
+      }
+    },
+    "contractor": {
+      "welcome": "Welcome",
+      "manageJobsAndApplications": "Manage your jobs and applications.",
+      "tabs": {
+        "jobManagement": "Job Management",
+        "vehicleManagement": "Vehicle Management"
+      },
+      "stats": {
+        "totalApplications": "Total Applications",
+        "offersSent": "Offers Sent",
+        "activeJobs": "Active Jobs",
+        "vehicleForms": "Vehicle Forms"
+      },
+      "jobPostings": "Job Postings",
+      "createNewJob": "Create New Job",
+      "applications": "applications",
+      "viewJob": "View Job",
+      "viewApplications": "View Applications",
+      "day": "day",
+      "postedOn": "Posted on",
+      "noJobsPosted": "You haven't posted any jobs yet.",
+      "createFirstJob": "Create Your First Job",
+      "appliedCandidates": "Applied Candidates",
+      "candidate": "Candidate",
+      "position": "Position",
+      "status": "Status",
+      "appliedDate": "Applied Date",
+      "actions": "Actions",
+      "unknownCandidate": "Unknown Candidate",
+      "unknownPosition": "Unknown Position",
+      "underReview": "Under Review",
+      "viewApplication": "View Application",
+      "sendOffer": "Send Offer",
+      "reject": "Reject",
+      "noCandidatesApplied": "No candidates have applied to your jobs yet.",
+      "joinedCandidates": "Joined Candidates",
+      "joined": "Joined",
+      "joinedDate": "Joined Date",
+      "noJoinedCandidates": "No candidates have joined yet.",
+      "vehicleForms": "Vehicle Forms",
+      "createNewForm": "Create New Form",
+      "viewForm": "View Form",
+      "createdOn": "Created on",
+      "noVehicleFormsPosted": "You haven't posted any vehicle/instrument forms yet.",
+      "createFirstForm": "Create Your First Form",
+      "vehicleApplications": "Vehicle Applications",
+      "owner": "Owner",
+      "vehicleType": "Vehicle Type",
+      "pending": "Pending",
+      "unknownOwner": "Unknown Owner",
+      "accept": "Accept",
+      "noVehicleApplications": "No vehicle applications.",
+      "offerSentSuccess": "Offer sent successfully",
+      "applicationRejected": "Application rejected",
+      "joiningLetterSent": "Joining letter sent",
+      "vehicleApplicationAccepted": "Vehicle application accepted",
+      "vehicleApplicationRejected": "Vehicle application rejected",
+      "actionFailed": "Action failed"
+    }
+  },
+  "profile": {
+    "contractor": {
+      "title": "Contractor Profile"
+    },
+    "worker": {
+      "title": "Worker Profile"
+    },
+    "owner": {
+      "title": "Vehicle/Instrument Owner Profile"
+    },
+    "editProfile": "Edit Profile",
+    "viewMode": "View Mode",
+    "saveProfile": "Save Profile",
+    "saveChanges": "Save Changes",
+    "saving": "Saving...",
+    "profileImageAlt": "Profile",
+    "changePhoto": "Change Photo",
+    "uploadPhoto": "Upload Photo",
+    "imageUploadSuccess": "Image uploaded successfully!",
+    "imageUploadError": "Error uploading image. Please try again.",
+    "resumeUploadSuccess": "Resume uploaded successfully!",
+    "resumeUploadError": "Error uploading resume. Please try again.",
+    "updateSuccess": "Profile updated successfully!",
+    "updateError": "Error updating profile. Please try again.",
+    "errorLoading": "Error loading profile",
+    "completion": {
+      "low": "Your profile needs attention! Complete it to increase visibility.",
+      "medium": "You're making progress! Keep adding details to your profile.",
+      "high": "Your profile is looking good! Just a few more details to complete.",
+      "complete": "Excellent! Your profile is complete and will attract more clients.",
+      "completeWorker": "Excellent! Your profile is complete and will attract more employers."
+    },
+    "fields": {
+      "fullName": "Full Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "location": "Location",
+      "role": "Role",
+      "organization": "Organization",
+      "organizationName": "Organization Name",
+      "workProfile": "Work Profile",
+      "workProfilePlaceholder": "Describe your work profile",
+      "currentStatus": "Current Status",
+      "lookingFor": "Looking For",
+      "lookingForPlaceholder": "e.g. Construction, Driving, Plumbing",
+      "pastExperience": "Past Experience",
+      "pastExperiencePlaceholder": "Describe your past work experience",
+      "expectedSalary": "Expected Salary (₹/day)"
+    },
+    "status": {
+      "unemployed": "Unemployed",
+      "working": "Working"
+    },
+    "availableForWork": "Available for Work",
+    "currentlyEmployed": "Currently Employed",
+    "memberSince": "Member since Jan 2023",
+    "notSpecified": "Not specified",
+    "noWorkProfile": "No work profile listed",
+    "noExperience": "No experience listed",
+    "tabs": {
+      "profile": "Profile",
+      "documents": "Documents"
+    },
+    "documents": {
+      "resume": "Resume",
+      "resumeFile": "Resume.pdf",
+      "uploadedOn": "Uploaded on Jan 15, 2023",
+      "view": "View",
+      "change": "Change",
+      "uploadResume": "Upload Resume",
+      "noResume": "No resume uploaded yet.",
+      "resumeFormat": "PDF, DOC, or DOCX up to 5MB",
+      "certifications": "Certifications",
+      "addCertification": "Add Certification",
+      "noCertifications": "No certifications added yet.",
+      "skillsAssessment": "Skills Assessment"
+    },
+    "skills": {
+      "plumbing": "Plumbing",
+      "carpentry": "Carpentry",
+      "advanced": "Advanced",
+      "intermediate": "Intermediate",
+      "updateSkills": "Update Skills"
+    },
+    "vehicles": {
+      "availableVehicles": "Available Vehicles",
+      "vehicleName": "Vehicle Name",
+      "model": "Model",
+      "capacity": "Capacity",
+      "addVehicle": "Add Vehicle"
+    }
+  },
+  "modal": {
+    "confirmDeletion": "Confirm Deletion",
+    "deleteConfirmMessage": "Are you sure you want to delete this vehicle requirement? This action cannot be undone."
+  }
+}
